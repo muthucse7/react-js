@@ -1,0 +1,11 @@
+.bank_title {
+  padding: 10px;
+  background: yellow;
+  text-align: center;
+}
+
+.btn_handler {
+  padding: 10px;
+  background: #0d8ea2;
+  font-size: 15px;
+}
