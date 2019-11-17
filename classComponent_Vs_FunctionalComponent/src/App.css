@@ -1,0 +1,14 @@
+.title_header{
+  text-align: center;
+  background: aliceblue;
+  border-radius: 10px;
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.user_component_section{
+  text-align: center;
+  color: #071c90;
+}
